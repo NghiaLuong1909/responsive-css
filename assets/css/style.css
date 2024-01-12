@@ -1,0 +1,19 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: WorkSans;
+}
+html{
+  font-size: 62.5%;
+}
+@font-face {
+  font-family: WorkSans;
+  src: url("../font/WorkSans-Regular.otf");
+}
+@font-face {
+  font-family: WorkSansThin;
+  src: url("../font/WorkSans-Thin.otf");
+}
+
+/*# sourceMappingURL=style.css.map */
